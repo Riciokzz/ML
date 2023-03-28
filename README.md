@@ -1,4 +1,4 @@
-# ML
+# Machine Learning
 Simple guide how to use Machine Learning (ML) with example data
 
 ## Association Rule Learning
