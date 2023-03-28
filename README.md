@@ -1,5 +1,5 @@
 # ML
-Machine learning
+Simple guide how to use Machine Learning (ML) with example data
 
 ## Association Rule Learning
 *A technique used in data mining to discover interesting relations between variables in large databases. It involves identifying frequent patterns or associations among sets of items.*
